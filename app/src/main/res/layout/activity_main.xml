@@ -29,18 +29,21 @@
             android:id="@+id/btnAC"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_margin="7dp"
             android:text="AC" />
 
         <Button
             android:id="@+id/btnDEL"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_margin="7dp"
             android:text="DEL" />
 
         <Button
             android:id="@+id/btnPorcentaje"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_margin="7dp"
             android:text="%" />
 
         <Button
@@ -48,6 +51,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="operatorClicked"
+            android:layout_margin="7dp"
             android:text="÷" />
 
     </LinearLayout>
@@ -63,6 +67,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="7" />
 
         <Button
@@ -70,6 +75,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="8" />
 
         <Button
@@ -77,6 +83,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="9" />
 
         <Button
@@ -84,6 +91,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="operatorClicked"
+            android:layout_margin="7dp"
             android:text="×" />
 
     </LinearLayout>
@@ -99,6 +107,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="4" />
 
         <Button
@@ -106,6 +115,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="5" />
 
         <Button
@@ -113,6 +123,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="6" />
 
         <Button
@@ -120,6 +131,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="operatorClicked"
+            android:layout_margin="7dp"
             android:text="-" />
 
     </LinearLayout>
@@ -135,6 +147,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="1" />
 
         <Button
@@ -142,6 +155,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="2" />
 
         <Button
@@ -149,6 +163,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="3" />
 
         <Button
@@ -156,6 +171,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="operatorClicked"
+            android:layout_margin="7dp"
             android:text="+" />
 
     </LinearLayout>
@@ -171,6 +187,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="0" />
 
         <Button
@@ -178,12 +195,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="presionoUnBoton"
+            android:layout_margin="7dp"
             android:text="." />
 
         <Button
             android:id="@+id/btnIgual"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_margin="7dp"
             android:text="=" />
 
 
